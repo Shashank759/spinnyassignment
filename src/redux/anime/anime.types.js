@@ -1,0 +1,9 @@
+const animeTypes = {
+    GET_ANIME_LIST: "GET_ANIME_LIST",
+    GET_ANIME_LIST_SUCCESS: "GET_ANIME_LIST_SUCCESS",
+    GET_ANIME_LIST_FAILURE: "GET_ANIME_LIST_FAILURE",
+    RESET_STATE: "RESET_STATE",
+  };
+  
+  export default animeTypes;
+  
