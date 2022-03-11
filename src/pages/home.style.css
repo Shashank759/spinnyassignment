@@ -1,0 +1,32 @@
+.search-box {
+  width: 50%;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.search-box-button {
+  height: fit-content;
+  margin-top: 5%;
+  color: white !important;
+  border-color: white !important;
+}
+
+.url {
+  margin-top: 5%;
+  margin-left: 15%;
+  color: white;
+  width: 150%;
+}
+
+.anime-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 30px;
+}
+
+.load-more {
+  justify-content: center;
+  margin-left: 39rem;
+}
